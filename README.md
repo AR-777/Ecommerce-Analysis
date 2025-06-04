@@ -13,6 +13,11 @@ These datasets power a comprehensive analysis of Evertrail's sales trends, custo
 
 ## Executive Summary
 Evertrail demonstrates strong overall revenue performance, with Books emerging as the top-performing category by total sales. Only 28.57% of signed-up users convert to paying customers, and most conversions take place 60+ days post-signup, indicating a long sales cycle. Despite this, the average order value is high at $512.58, and more than half of customers who purchase return for additional orders (retention rate: 54.4%), highlighting opportunities to improve early conversion and maximize lifetime value.
+
+[Tableau Dashboard](https://public.tableau.com/app/profile/aj8618/viz/EcommerceDashboard_17472715554820/Dashboard)
+
+![Ecommerce Dashboard](https://github.com/user-attachments/assets/18593170-2c13-4e27-81b9-ea319c9754df)
+
 ## Overview of Findings
 -	Revenue peaked in November 2023 and has gradually declined since
 -	Electronics lead in revenue; Books lead in volume but lower revenue per order
